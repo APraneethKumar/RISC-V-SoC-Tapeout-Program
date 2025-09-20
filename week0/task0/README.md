@@ -29,7 +29,7 @@ sudo apt-get install build-essential clang bison flex \
 make config-gcc
 make
 sudo make install
-\`\`\`
+```
 ![Yosys Installation](yosysinstall.png)
 
 ---
@@ -38,10 +38,10 @@ sudo make install
 Icarus Verilog is used for Verilog simulation.
 
 **Installation Steps:**
-\`\`\`bash
+```bash
 sudo apt-get update
 sudo apt-get install iverilog
-\`\`\`
+```
 ![Iverilog Installation](iveriloginstall.png)
 
 ---
@@ -50,9 +50,9 @@ sudo apt-get install iverilog
 GTKWave is used to visualize simulation results.
 
 **Installation Steps:**
-\`\`\`bash
+```bash
 sudo apt-get install gtkwave
-\`\`\`
+```
 ![GTKWave Installation](gtkwave-install.png)
 
 ---
