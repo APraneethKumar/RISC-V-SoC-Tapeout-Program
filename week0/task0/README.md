@@ -51,9 +51,10 @@ GTKWave is used to visualize simulation results.
 
 **Installation Steps:**
 ```bash
+sudo apt-get update
 sudo apt-get install gtkwave
 ```
-![GTKWave Installation](gtkwave-install.png)
+![GTKWave Installation](gtkwaveinstall.png)
 
 ---
 
